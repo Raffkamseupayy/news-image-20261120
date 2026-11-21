@@ -1,5 +1,9 @@
 # News collage — 20 November 2026 (`news-image-20261120`)
 
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/Raffkamseupayy/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/Raffkamseupayy/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+
 Entry for make.fun's daily bounty **“Sum up 20 November's world news in one image.”**
 The committed image is a deterministic newspaper-style collage of five major
 stories of Friday, 20 November 2026:
