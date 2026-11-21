@@ -107,7 +107,7 @@ def main():
     # ---- panel grid: 2 columns, 5 stories (3 left, 2 right) ----
     gx, gy, gap = 32, 180, 16
     pw = (W - 2 * 32 - gap) // 2          # 472
-    ph = 252
+    ph = 245
     slots = [(gx, gy), (gx, gy + ph + gap), (gx, gy + 2 * (ph + gap)),
              (gx + pw + gap, gy), (gx + pw + gap, gy + ph + gap)]
     for (x, y), (head, body, tag, accent) in zip(slots, PANELS):
